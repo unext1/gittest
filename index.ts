@@ -1,1 +1,1 @@
-const hi = "hi" as string
+const hi = "hello" as string
